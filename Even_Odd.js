@@ -1,3 +1,5 @@
+// check number is even or odd 
+
 var num = 10;
    console.log("Num = "+num+" ");
    if(num % 2 == 0) {
